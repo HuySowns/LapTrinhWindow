@@ -1,0 +1,5 @@
+C:\Users\Asus\source\repos\Tuan4\Tuan4\obj\Debug\Tuan4.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Tuan4\Tuan4\obj\Debug\Tuan4.Form1.resources
+C:\Users\Asus\source\repos\Tuan4\Tuan4\obj\Debug\Tuan4.Properties.Resources.resources
+C:\Users\Asus\source\repos\Tuan4\Tuan4\obj\Debug\Tuan4.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Tuan4\Tuan4\obj\Debug\Tuan4.csproj.CoreCompileInputs.cache
